@@ -11,7 +11,7 @@ every line of code, and sharing the process with the world.
 -Tips, tricks, and resources I discover along the way
 
 ### Connect with me:
--"GitHub:" [Priya21chouksey]()
--"LinkedIn:" [Priyanshi Chouksey]()
+-"GitHub:" [Priya21chouksey](https://github.com/Priya21chouksey)
+-"LinkedIn:" [Priyanshi Chouksey](https://www.linkedin.com/in/priyanshi-chouksey-51b668257/)
 
 Stay tuned: more code chapters coming soon!
